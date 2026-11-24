@@ -115,5 +115,5 @@ Priority role tracking with incremental updates using MERGE operations.
 - **Schema Organization:** Separate schemas (`flat_mart`, `skills_mart`, `priority_mart`, `company_mart`) for logical separation
 - **Error Handling:** Structured script execution with clear error messages and progress reporting
 
-### Access my built pipeline for you analysis on different tools -- Run this snippet to attach database
+### Access my built pipeline for your analysis on different tools -- Run this snippet to attach database
 ATTACH 'md:_share/dw_marts/3ec4eb87-430f-4579-89b8-eaf3485d8b06';
